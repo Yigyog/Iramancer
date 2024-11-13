@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
   <info>
-    <name>iramancer</name>
+    <name>laserllama</name>
     <update version="1.0">
-      <file name="iramancer-core.index" url="https://raw.githubusercontent.com/Yigyog/Iramancer/refs/heads/main/Iramancer-core.index" />
+      <file name="laserllama-clap.index" url="https://raw.githubusercontent.com/Yigyog/Iramancer/refs/heads/main/Iramancer-core.index" />
     </update>
   </info>
 
-<info>
-      <name></name>
-      <update version="2.1.1">
-          <file name="subclasses-barbarian-iramancer.xml" url="tmp.xml" />
-      </update>
-  </info>
 
-<element name="Path of the Iramancer" type="Archetype" source="Homebrew" id="ID_BARBARIAN_IRAMANCER">
+
+<element name="Path of the Iramancer" type="Archetype" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER">
     <supports>Homebrew</supports>
     <description>
       <p>Barbarians who folow the Path of the Iramancer, or simply
@@ -44,7 +39,7 @@ their wake.</p>
     </rules>
   </element>
 
-  <element name="Rage Magic" type="Archetype Feature" source="Homebrew" id="ID_BARBARIAN_IRAMANCER_RAGE_MAGIC">
+  <element name="Rage Magic" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER_RAGE_MAGIC">
     <description>
       <p>Starting when you choose this path at 3rd level, you can
 channel your rage into certain spels. See Spels Rules for the
@@ -195,7 +190,7 @@ spell you have fom another class.</p>
     <supports>WardenBarbarian</supports>
   </append>
  
-  <element name="Path Burst" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_BARBARIAN_IRAMANCER_PATH_BURST">
+  <element name="Path Burst" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER_PATH_BURST">
     <description>
       <p>By 6th level, magical energy is perpetualy weling up inside
 of you, granting you resistance to damage from spels.</p>
@@ -213,7 +208,7 @@ magic path, using your Rage Magic spel save DC.</p>
     </sheet>
   </element>
 
-  <element name="Magic Evasion" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_BARBARIAN_IRAMANCER_MAGIC_EVASION">
+  <element name="Magic Evasion" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER_MAGIC_EVASION">
     <description>
       <p>By 10th level, you can evade the negative efects of magic
 more easily. You have advantage on saving throws against
@@ -229,7 +224,7 @@ saving throw against it; you must be able to see the creature.</p>
     </sheet>
   </element>
 
-  <element name="Ward of the Ancients" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_BARBARIAN_IRAMANCER_BRUTAL_EVASION">
+  <element name="Brutal Casting" type="Archetype Feature" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER_Brutal_Casting">
     <description>
       <p>Starting at 14th level, your magical abilities are as familiar to
 you as the weapons you hold. Immediately afer you use an
