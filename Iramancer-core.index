@@ -3,7 +3,7 @@
   <info>
     <name>iramancer</name>
     <update version="1.0">
-      <file name="iramancer-core.index" url="https://raw.githubusercontent.com/iramancer-core.index" />
+      <file name="iramancer-core.index" url="https://raw.githubusercontent.com/Yigyog/Iramancer/refs/heads/main/Iramancer-core.index" />
     </update>
   </info>
 
