@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+	<info>
+      <name></name>
+      <update version="2.1.1">
+          <file name="subclasses-barbarian-iramancer.xml" url="tmp.xml" />
+      </update>
+  </info>
 
 <element name="Path of the Iramancer" type="Archetype" source="Homebrew" id="ID_BARBARIAN_IRAMANCER">
     <supports>Homebrew</supports>
