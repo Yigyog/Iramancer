@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
+<files>
   <info>
     <name>laserllama</name>
     <update version="1.0">
@@ -7,7 +8,6 @@
     </update>
   </info>
 
-<files>
 
 <element name="Path of the Iramancer" type="Archetype" source="laserllama's Primal Paths" id="ID_LASERLL_ARCHETYPE_BARBARIAN_IRAMANCER">
     <supports>Homebrew</supports>
